@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- style sheets and fonts import -->
+    <link rel="stylesheet" href="/styles/home/style.css" />
+    <script
+      defer
+      src="https://code.jquery.com/jquery-3.6.0.min.js"
+      integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+      crossorigin="anonymous"
+    ></script>
+    <script defer src="/scripts/check-active-session.js"></script>
+    <script defer src="/scripts/login-register.js"></script>
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
+    />
+    <title>Home</title>
+  </head>
+  <body id="home-page">
+    <div class="maincontainer">
+      <header>
+        <div class="navbars">
+          <div class="logo">
+            <img src="/assets/home-images/logo4.jfif" alt="logo" />
+          </div>
+          <div class="menuicon">
+            <img src="/assets/home-images/menuopen.png" class="menu" />
+          </div>
+          <ul id="menulist">
+            <li class="active"><a href="./home.html">Home</a></li>
+            <hr class="hr0" />
+            <li><a href="./login.html">Login</a></li>
+            <hr class="hr0" />
+            <li><a href="./login.html">Register</a></li>
+            <hr class="hr0" />
+            <li><a href="#">About Us</a></li>
+            <hr class="hr0" />
+            <li><a href="#">Contact</a></li>
+            <hr class="hr0" />
+          </ul>
+        </div>
+        <hr class="hr1" />
+      </header>
+
+      <section class="animation">
+        <div class="content">
+          <div class="rightsection">
+            <h1 class="animation a1">explore</h1>
+            <br />
+            <h1 class="animation a2">the</h1>
+            <br />
+            <h1 class="animation a3">musical</h1>
+            <br />
+            <h1 class="animation a4">world</h1>
+          </div>
+          <div class="leftsection">
+            <p class="animation a5">Let's Play n Enjoy</p>
+            <img
+              class="animation a6"
+              src="/assets/home-images/play.png"
+              alt="play"
+              id="play"
+            />
+          </div>
+          <span id="span"></span>
+        </div>
+      </section>
+    </div>
+
+    <audio src="/assets//songs/english/whatever-it-takes.mp3" id="song"></audio>
+    <footer class="footer">
+      <div class="container">
+        <div class="row">
+          <div class="footer-col">
+            <h4>company</h4>
+            <ul>
+              <li><a href="#">about us</a></li>
+              <li><a href="#">our services</a></li>
+              <li><a href="#">jobs</a></li>
+              <li><a href="#">privacy policy</a></li>
+            </ul>
+          </div>
+          <div class="footer-col">
+            <h4>get help</h4>
+            <ul>
+              <li><a href="#">FAQ</a></li>
+              <li><a href="#">for artists</a></li>
+              <li><a href="#">developers</a></li>
+              <li><a href="#">advertising</a></li>
+              <li><a href="#">investors</a></li>
+            </ul>
+          </div>
+          <div class="footer-col">
+            <h4>useful links</h4>
+            <ul>
+              <li><a href="#">support</a></li>
+              <li><a href="#">web player</a></li>
+              <li><a href="#">android app</a></li>
+              <li><a href="#">ios app</a></li>
+            </ul>
+          </div>
+          <div class="footer-col">
+            <h4>follow us</h4>
+            <div class="social-links">
+              <a href="#"><i class="fab fa-facebook-f"></i></a>
+              <a href="#"><i class="fab fa-twitter"></i></a>
+              <a href="#"><i class="fab fa-instagram"></i></a>
+              <a href="#"><i class="fab fa-linkedin-in"></i></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <!-- scripts -->
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"></script>
+  </body>
+</html>

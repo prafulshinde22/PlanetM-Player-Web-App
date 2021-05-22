@@ -1,0 +1,5 @@
+projectKey=javascript-report
+serverUrl=http://172.27.12.78
+dashboardUrl=http://172.27.12.78/dashboard/index/javascript-report
+ceTaskId=AXmOHzNTa_m12xx6Rv1q
+ceTaskUrl=http://172.27.12.78/api/ce/task?id=AXmOHzNTa_m12xx6Rv1q

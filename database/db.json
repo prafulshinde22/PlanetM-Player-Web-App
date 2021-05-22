@@ -1,0 +1,590 @@
+{
+  "user": [
+    {
+      "username": "Praful shinde",
+      "email": "prafulshinde@gmail.com",
+      "password": "U2FsdGVkX19b6WUmZFKh8vZ6NKmFq8EzQ1fIRxl1C5Y=",
+      "phone": "",
+      "dob": "",
+      "gender": "",
+      "id": 1
+    },
+    {
+      "username": "Rahul ",
+      "email": "rahul@gmail.com",
+      "password": "U2FsdGVkX189/ym3OzeyHOwtqxN/6hAt1e5CX0RVWF8=",
+      "phone": "",
+      "dob": "",
+      "gender": "",
+      "id": 2
+    },
+    {
+      "username": "praful",
+      "email": "parth@gmail.com",
+      "password": "U2FsdGVkX18Tzo+5kmtB33KG+7Oz9q1qZj3WDlIifoY=",
+      "phone": "",
+      "dob": "",
+      "gender": "",
+      "id": 3
+    }
+  ],
+  "music": [
+    {
+      "id": 1,
+      "name": "Radioactive",
+      "singer": "Imagine Dragons",
+      "singer-id": 1,
+      "album": "Night Visions",
+      "album-id": 1,
+      "duration": "4.36",
+      "language": "English",
+      "path": "./assets/songs/english/radioactive.m4a",
+      "image": "./assets/album-images/all-of-me.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Whatever it takes",
+      "singer": "Imagine Dragons",
+      "singer-id": 1,
+      "album": "Evolve",
+      "album-id": 2,
+      "duration": "3.21",
+      "language": "English",
+      "path": "./assets/songs/english/whatever-it-takes.mp3",
+      "image": "./assets/album-images/whatever-it-takes.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Believer",
+      "singer": "Imagine Dragons",
+      "singer-id": 1,
+      "album": "Evolve",
+      "album-id": 2,
+      "duration": "3.24",
+      "language": "English",
+      "path": "./assets/songs/english/believer.mp3",
+      "image": "./assets/album-images/believer.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Your Power",
+      "singer": "Billie Eilish",
+      "singer-id": 2,
+      "album": "Happier Than Ever",
+      "album-id": 3,
+      "duration": "4.05",
+      "language": "English",
+      "path": "./assets/songs/english/your-power.mp3",
+      "image": "./assets/album-images/your-power.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Lovely",
+      "singer": "Billie Eilish",
+      "singer-id": 2,
+      "album": "Dont Smile at Me",
+      "album-id": 4,
+      "duration": "3.20",
+      "language": "English",
+      "path": "./assets/songs/english/lovely.mp3",
+      "image": "./assets/album-images/lovely.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Blinding Lights",
+      "singer": "The Weeknd",
+      "singer-id": 3,
+      "album": "After Hours",
+      "album-id": 5,
+      "duration": "3.20",
+      "language": "English",
+      "path": "./assets/songs/english/blinding-lights.mp3",
+      "image": "./assets/album-images/blinding-lights.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Can't feel my face",
+      "singer": "The Weeknd",
+      "singer-id": 3,
+      "album": "The Highlights",
+      "album-id": 6,
+      "duration": "3.33",
+      "language": "English",
+      "path": "./assets/songs/english/cant-feel-my-face.mp3",
+      "image": "./assets/album-images/cant-feel-my-face.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Middle of night",
+      "singer": "ELLEY DUHÉ",
+      "singer-id": 4,
+      "album": "ED1",
+      "album-id": 7,
+      "duration": "3.04",
+      "language": "English",
+      "path": "./assets/songs/english/middle-of-night.mp3",
+      "image": "./assets/album-images/middle-of-night.jpg"
+    },
+    {
+      "id": 9,
+      "name": "All of me",
+      "singer": "John Legend",
+      "singer-id": 5,
+      "album": "Love in the Future",
+      "album-id": 8,
+      "duration": "4.29",
+      "language": "English",
+      "path": "./assets/songs/english/all-of-me.m4a",
+      "image": "./assets/album-images/all-of-me.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Sur Niragas Ho",
+      "singer": "Shankar Mahadevan",
+      "singer-id": 6,
+      "album": "Katyar Kaljat Ghusli",
+      "album-id": 9,
+      "duration": "5.37",
+      "language": "Marathi",
+      "path": "./assets/songs/marathi/sur-niragas-ho.m4a",
+      "image": "./assets/album-images/sur-niragas-ho.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Tejonidhi Lohagol",
+      "singer": "Shankar Mahadevan",
+      "singer-id": 6,
+      "album": "Katyar Kaljat Ghusli",
+      "album-id": 9,
+      "duration": "4.22",
+      "language": "Marathi",
+      "path": "./assets/songs/marathi/tejonidhi-lohagol.m4a",
+      "image": "./assets/album-images/tejonidhi-lohagol.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Kashi Mi Jau Mathurechya Bajari",
+      "singer": "Bela Shende",
+      "singer-id": 7,
+      "album": "Natarang",
+      "album-id": 10,
+      "duration": "3.05",
+      "language": "Marathi",
+      "path": "./assets/songs/marathi/kashi-mi-jau-mathurechya-bajari.m4a",
+      "image": "./assets/album-images/kashi-mi-jau-mathurechya-bajari.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Natarang Ubha",
+      "singer": "Ajay Atul",
+      "singer-id": 8,
+      "album": "Natarang",
+      "album-id": 10,
+      "duration": "4.19",
+      "language": "Marathi",
+      "path": "./assets/songs/marathi/natarang-ubha.m4a",
+      "image": "./assets/album-images/natarang-ubha.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Aatach Baya Ka Baavarla",
+      "singer": "Shreya Ghoshal",
+      "singer-id": 9,
+      "album": "Sairat",
+      "album-id": 11,
+      "duration": "5.34",
+      "language": "Marathi",
+      "path": "./assets/songs/marathi/aatach-baya-ka-baavarla.mp3",
+      "image": "./assets/album-images/aatach-baya-ka-baavarla.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Man he",
+      "singer": "Shreya Ghoshal",
+      "singer-id": 9,
+      "album": "Chi Va Chi Sau Ka",
+      "album-id": 12,
+      "duration": "4.23",
+      "language": "Marathi",
+      "path": "./assets/songs/marathi/man-he.m4a",
+      "image": "./assets/album-images/man-he.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Yad Lagla",
+      "singer": "Ajay Gogavale",
+      "singer-id": 10,
+      "album": "Sairat",
+      "album-id": 11,
+      "duration": "5.14",
+      "language": "Marathi",
+      "path": "./assets/songs/marathi/yad-lagla.mp3",
+      "image": "./assets/album-images/yad-lagla.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Sairat Zaala Ji",
+      "singer": "Ajay Gogavale",
+      "singer-id": 10,
+      "album": "Sairat",
+      "album-id": 11,
+      "duration": "6.09",
+      "language": "Marathi",
+      "path": "./assets/songs/marathi/sairat-zaala-ji.mp3",
+      "image": "./assets/album-images/sairat-zaala-ji.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Tujhya Vina O Yara",
+      "singer": "Sonu Nigam",
+      "singer-id": 11,
+      "album": "F.U. (Friendship Unlimited)",
+      "album-id": 13,
+      "duration": "4.54",
+      "language": "Marathi",
+      "path": "./assets/songs/marathi/tujhya-vina-o-yara.mp3",
+      "image": "./assets/album-images/tujhya-vina-o-yara.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Namo Namo",
+      "singer": "Amit Trivedi",
+      "singer-id": 12,
+      "album": "Kedarnath",
+      "album-id": 14,
+      "duration": "5.21",
+      "language": "Hindi",
+      "path": "./assets/songs/hindi/namo-namo.mp3",
+      "image": "./assets/album-images/namo-namo.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Ud-Daa Punjab",
+      "singer": "Amit Trivedi",
+      "singer-id": 12,
+      "album": "Udta Punjab",
+      "album-id": 15,
+      "duration": "4.34",
+      "language": "Hindi",
+      "path": "./assets/songs/hindi/ud-daa-punjab.mp3",
+      "image": "./assets/album-images/ud-daa-punjab.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Qaafirana",
+      "singer": "Arijit Singh",
+      "singer-id": 13,
+      "album": "Kedarnath",
+      "album-id": 14,
+      "duration": "5.41",
+      "language": "Hindi",
+      "path": "./assets/songs/hindi/qaafirana.mp3",
+      "image": "./assets/album-images/qaafirana.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Har Har Gange",
+      "singer": "Arijit Singh",
+      "singer-id": 13,
+      "album": "Batti Gul Meter Chalu",
+      "album-id": 16,
+      "duration": "3.02",
+      "language": "Hindi",
+      "path": "./assets/songs/hindi/har-har-gange.mp3",
+      "image": "./assets/album-images/har-har-gange.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Shayad",
+      "singer": "Arijit Singh",
+      "singer-id": 13,
+      "album": "Love Aaj Kal",
+      "album-id": 17,
+      "duration": "4.07",
+      "language": "Hindi",
+      "path": "./assets/songs/hindi/shayad.m4a",
+      "image": "./assets/album-images/shayad.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Pal Pal Dil Ke Paas",
+      "singer": "Arijit Singh",
+      "singer-id": 13,
+      "album": "Pal Pal Dil Ke Paas",
+      "album-id": 18,
+      "duration": "4.14",
+      "language": "Hindi",
+      "path": "./assets/songs/hindi/pal-pal-dil-ke-paas.m4a",
+      "image": "./assets/album-images/pal-pal-dil-ke-paas.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Kiston",
+      "singer": "Sachin Jigar",
+      "singer-id": 14,
+      "album": "Roohi",
+      "album-id": 19,
+      "duration": "2.41",
+      "language": "Hindi",
+      "path": "./assets/songs/hindi/kiston.mp3",
+      "image": "./assets/album-images/kiston.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Char Baj Gaye ",
+      "singer": "Sachin Jigar",
+      "singer-id": 14,
+      "album": "F.A.L.T.U (2011)",
+      "album-id": 20,
+      "duration": "3.33",
+      "language": "Hindi",
+      "path": "./assets/songs/hindi/char-baj-gaye.mp3",
+      "image": "./assets/album-images/char-baj-gaye.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Jiyein Kyun",
+      "singer": "Papon",
+      "singer-id": 15,
+      "album": "Dum Maaro Dum",
+      "album-id": 21,
+      "duration": "4.26",
+      "language": "Hindi",
+      "path": "./assets/songs/hindi/jiyein-kyun.m4a",
+      "image": "./assets/album-images/jiyein-kyun.jpg"
+    },
+    {
+      "id": 28,
+      "name": "Kyon",
+      "singer": "Papon",
+      "singer-id": 15,
+      "album": "Barfi",
+      "album-id": 22,
+      "duration": "4.26",
+      "language": "Hindi",
+      "path": "./assets/songs/hindi/kyon.m4a",
+      "image": "./assets/album-images/kyon.jpg"
+    },
+    {
+      "id": 29,
+      "name": "Kay Tu",
+      "singer": "Sonu Nigam",
+      "singer-id": 11,
+      "album": "Triple Seat",
+      "album-id": 23,
+      "duration": "3.34",
+      "language": "Marathi",
+      "path": "./assets/songs/marathi/kay-tu.m4a",
+      "image": "./assets/album-images/kay-tu.jpg"
+    },
+    {
+      "id": 30,
+      "name": "Happy Now",
+      "singer": "ELLEY DUHÉ",
+      "singer-id": 4,
+      "album": "ED1",
+      "album-id": 7,
+      "duration": "3.27",
+      "language": "English",
+      "path": "./assets/songs/english/happy-now.mp3",
+      "image": "./assets/album-images/happy-now.jpg"
+    }
+  ],
+  "favourite": [
+    
+  ],
+  "singer": [
+    {
+      "id": 1,
+      "name": "Imagine Dragons",
+      "image": "./assets/singer-images/imagine-dragons.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Billie Eilish",
+      "image": "./assets/singer-images/billie-eilish.jpg"
+    },
+    {
+      "id": 3,
+      "name": "The Weeknd",
+      "image": "./assets/singer-images/weeknd.jpg"
+    },
+    {
+      "id": 4,
+      "name": "ELLEY DUHÉ",
+      "image": "./assets/singer-images/elley-duhe.jpg"
+    },
+    {
+      "id": 5,
+      "name": "John Legend",
+      "image": "./assets/singer-images/john-legend.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Shankar Mahadevan",
+      "image": "./assets/singer-images/shankar-mahadevan.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Bela Shende",
+      "image": "./assets/singer-images/bela-shende.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Ajay Atul",
+      "image": "./assets/singer-images/ajay-atul.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Shreya Ghoshal",
+      "image": "./assets/singer-images/shreya-ghoshal.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Ajay Gogavale",
+      "image": "./assets/singer-images/ajay-gogavale.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Sonu Nigam",
+      "image": "./assets/singer-images/sonu-nigam.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Amit Trivedi",
+      "image": "./assets/singer-images/amit-trivedi.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Arijit Singh",
+      "image": "./assets/singer-images/arjit-singh.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Sachin Jigar",
+      "image": "./assets/singer-images/sachin-jigar.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Papon",
+      "image": "./assets/singer-images/papon.jpg"
+    }
+  ],
+  "album": [
+    {
+      "id": 1,
+      "name": "Night Visions",
+      "image": "./assets/album-images/radioactive.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Evolve",
+      "image": "./assets/album-images/whatever-it-takes.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Happier Than Ever",
+      "image": "./assets/album-images/your-power.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Dont Smile At Me",
+      "image": "./assets/album-images/dont-smile-at-me.jpg"
+    },
+    {
+      "id": 5,
+      "name": "After Hours",
+      "image": "./assets/album-images/blinding-lights.jpg"
+    },
+    {
+      "id": 6,
+      "name": "The Highlights",
+      "image": "./assets/album-images/cant-feel-my-face.jpg"
+    },
+    {
+      "id": 7,
+      "name": "ED1",
+      "image": "./assets/album-images/middle-of-night.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Love in the Future",
+      "image": "./assets/album-images/all-of-me.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Katyar Kaljat Ghusli",
+      "image": "./assets/album-images/sur-niragas-ho.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Natarang",
+      "image": "./assets/album-images/natarang-ubha.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Sairat",
+      "image": "./assets/album-images/aatach-baya-ka-baavarla.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Chi Va Chi Sau Ka",
+      "image": "./assets/album-images/man-he.jpg"
+    },
+    {
+      "id": 13,
+      "name": "F.U. (Friendship Unlimited)",
+      "image": "./assets/album-images/tujhya-vina-o-yara.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Kedarnath",
+      "image": "./assets/album-images/namo-namo.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Udta Punjab",
+      "image": "./assets/album-images/ud-daa-punjab.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Batti Gul Meter Chalu",
+      "image": "./assets/album-images/har-har-gange.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Love Aaj Kal",
+      "image": "./assets/album-images/shayad.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Pal Pal Dil Ke Paas",
+      "image": "./assets/album-images/pal-pal-dil-ke-paas.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Roohi",
+      "image": "./assets/album-images/kiston.jpg"
+    },
+    {
+      "id": 20,
+      "name": "F.A.L.T.U (2011)",
+      "image": "./assets/album-images/char-baj-gaye.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Dum Maaro Dum",
+      "image": "./assets/album-images/jiyein-kyun.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Barfi",
+      "image": "./assets/album-images/kyon.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Triple Seat",
+      "image": "./assets/album-images/kay-tu.jpg"
+    }
+  ]
+}
